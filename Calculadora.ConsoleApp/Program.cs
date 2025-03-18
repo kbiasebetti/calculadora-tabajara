@@ -1,4 +1,6 @@
-﻿namespace Calculadora.ConsoleApp
+﻿using System.Diagnostics.Tracing;
+
+namespace Calculadora.ConsoleApp
 {
     internal class Program
     {
