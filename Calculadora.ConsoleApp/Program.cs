@@ -1,13 +1,11 @@
-﻿
-
-using System.Reflection.Metadata.Ecma335;
-
-namespace Calculadora.ConsoleApp
+﻿namespace Calculadora.ConsoleApp
 {
     internal class Program
     {
         private static void Main(string[] args)
         {
+            // TESTANDO COMMIT
+
             // Vetores
             string[] historicoOperacoes = new string[100];
             int contadorHistorico = 0;
